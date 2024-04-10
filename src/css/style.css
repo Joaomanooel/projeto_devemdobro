@@ -136,14 +136,14 @@ body{
 	border-radius: 50%;
 }
 
-.home .foto.sombra-interna{
-	background: linear-gradient(to right, #8A35C8, #18C063, #00EEA2);
+.home .foto.sombra-interna {
+	background: linear-gradient(to right, #8a35c8, #18c063, #00eea2);
 	background-size: 180% 180%;
-	animation: gradiente-animation 5s ease infinite ;
+	animation: gradient-animation 5s ease infinite;
 }
 
 .projetos{
-	padding: 70px 0;
+	padding: 70px 0 70px;
 }
 
 .projetos .titulo{
