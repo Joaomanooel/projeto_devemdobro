@@ -28,11 +28,11 @@ html{
 }
 
 body{
-	background-color: #282828;
+	background-color: #2600ff;
 	font-family: "Poppins", sans-serif;
 	margin: 0 auto;
 	max-width: 1120px;
-	background: linear-gradient(150deg, #000000, #9e00ff);
+	background: linear-gradient(150deg, #000000, #2600ff);
 	background-size: 120% 120%;
 }
 
@@ -56,8 +56,8 @@ body{
 }
 
 .cabecalho a:hover .logo{
-	color: #9443f8;
-	border: 2px solid #9443d8;
+	color: #2600ff;
+	border: 2px solid #2600ff;
 }
 
 .cabecalho .menu li a{
@@ -68,7 +68,7 @@ body{
 }
 
 .cabecalho .menu li a:hover{
-	background-color: #9443d8;
+	background-color: #2600ff;
 	color: #fff;
 	border-radius: 50px;
 }
@@ -121,8 +121,8 @@ body{
 }
 
 .home .redes-sociais a i:hover{
-	color: #9443d8;
-	border:  1px solid #9443d8;
+	color: #2600ff;
+	border:  1px solid #2600ff;
 	transform: scale(1.1);
 }
 
@@ -137,7 +137,7 @@ body{
 }
 
 .home .foto.sombra-interna {
-	background: linear-gradient(to right, #8a35c8, #18c063, #00eea2);
+	background: linear-gradient(to right, #2600ff,#000000);
 	background-size: 180% 180%;
 	animation: gradient-animation 5s ease infinite;
 }
@@ -225,7 +225,7 @@ body{
 }
 
 .projetos .btn-mostrar-projetos:hover {
-	background-color: #9443d8;
+	background-color: #2600ff;
 	transition: 0.3s;
 }
 
